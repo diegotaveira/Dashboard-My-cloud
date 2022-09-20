@@ -1,0 +1,97 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box; font-family: sans-serif;
+}
+
+:root{
+    --backgroud: #55c395;
+    --text-blue:#155d8a;
+    --color-white:#fff;
+    --files-grey: #778791;
+}
+
+body{
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    background-color: #acddc9;
+}
+
+
+.container{
+    background-color: #e2e7eb;
+    width: 100%;
+    height: 97vh;
+    margin: 0 20px;
+    display: flex;
+    border-radius: 50px;  
+}
+/* container 01 ---------------------------------*/
+
+
+/* nav 01------------------------ */
+ 
+
+
+/* nav 02 ------------------------*/
+
+ 
+
+
+/* mycloud -------------------------*/
+
+ 
+
+/* button add --------------------------------*/
+
+
+
+/* my files ----------------------*/
+
+
+
+/* my files 02---------------- */
+
+
+
+/* -----------------container 02------------ */
+
+
+
+/* grid 01--------------------------------------- */
+
+
+
+/* grid 02 ------------------------------------------*/
+
+
+
+/* grid 03--------------------------------------- */
+
+
+
+/* grid 03 arquivos----------------------------------------*/
+
+
+
+/* barra de rolagem------------------------- */
+
+
+
+/* ---------------container 03---------------- */
+
+
+
+/* perfil------------------------------------ */
+
+
+
+/* porcentagens dos gb--------------------------------- */
+
+
+
+/* tipos de arquivos container 03--------------- */
+
+
+
